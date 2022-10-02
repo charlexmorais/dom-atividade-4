@@ -1,0 +1,25 @@
+#cadastro-simples {
+    max-width: 400px;
+    background-color: rgb(118, 182, 237);
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  #cadastro-simples label {
+    display: block;
+  }
+  
+  #cadastro-simples input {
+    margin-bottom: 8px;
+    padding: 4px;
+    cursor: pointer;
+  }
+  
+  #btn {
+    background-color: rgb(107, 172, 41);
+    width: 100%;
+    max-width: 170px;
+    padding: 4px;
+    cursor: pointer;
+  }
+  
